@@ -9,5 +9,3 @@ This project implements a Convolutional Neural Network (CNN) for traffic sign re
 - Achieved ~95.6% accuracy
 - Explainable AI using Grad-CAM
 
-## Note
-Code is not publicly available, but project details can be shared upon request.
